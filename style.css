@@ -1,0 +1,109 @@
+
+
+.image{
+    width: 200px;
+    height: 80px;
+}
+.heading_para{
+    font-size: 23px !important;
+    font-family: proxima_novasemibold !important;
+}
+/* .input-group-prepend{
+    border-radius: 15px 0px 0px 15px !important;
+}
+.lbtn{
+    border-radius: 0px 15px 15px 0px !important;
+    
+} */
+
+.card .btn{
+    width: 250px;
+    height: 40px;
+    outline: none;
+    border: none;
+    
+}
+form .loginbtn{
+    height: 35px !important;
+    border-radius: 8px !important;
+    width: 320px !important;
+
+}
+ .nav-item.nav-link {
+    height: 50px;
+    width: 116px;
+}
+.nav-item.nav-link{
+    background-color: #ddd ;
+    color: black ;
+    
+}
+.nav-item.nav-link .active{
+    background-color: #fff ;
+}
+.nav-tabs .nav-link{
+    border-top-left-radius: 0% ;
+    border-top-right-radius: 0% ;
+} 
+.input-group-text{
+    background-color: #dc3545cf !important;
+    color: #fff;
+}
+.facebook{
+    background-color: steelblue !important;
+}
+.card .btn{
+    /* border-radius: 0 !important; */
+}
+.parent{
+    
+    background: linear-gradient(45deg, whitesmoke,mistyrose);
+}
+
+.logo_brand{
+    width: 40px !important;
+    height: 30px !important;
+}
+.card{
+    box-shadow: 2px 2px 12px rgb(89, 88, 88) !important;
+}
+p .hideandshow{
+    text-decoration: none;
+}
+.qt{
+    background-color: rgb(238, 235, 235) !important;
+}
+
+
+.img1_logo{
+    width: 90px !important;
+    height: 40px !important;
+}
+.linksstyle a{
+    text-decoration: none !important;
+    color: rgb(100, 100, 100);
+}
+
+/* social links */
+.fa-instagram{
+    color:mediumvioletred !important;
+}
+.fa-twitter-square{
+ color: dodgerblue !important;
+}
+.fa-youtube{
+color: red !important;
+}
+.fa-linkedin{
+color: darkcyan !important;
+}
+.fa-facebook-square{
+color: steelblue !important;
+}
+
+@media only screen and (max-width: 400px){
+    .nav-item.nav-link {
+        height: 50px;
+        width: 109px;
+    }
+}
